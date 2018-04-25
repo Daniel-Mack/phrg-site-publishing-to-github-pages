@@ -4,4 +4,4 @@
 
 <p><a href="https://www.youtube.com/watch?v=0h_GuoH449w">Alternate video link</a>.</p>
 
-<p data-visibility="hidden">View <a href="https://learn.co/lessons/site-publishing-to-github-pages" title="Site Publishing to GitHub Pages">Site Publishing to GitHub Pages</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Site Publishing To GitHub Pages</p>
